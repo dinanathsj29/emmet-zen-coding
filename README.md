@@ -80,3 +80,9 @@ After completing/attending/finishing this Course/Tutorial, participants should b
 - Write HTML & CSS code faster and in an efficient way
 - Improve HTML & CSS workflow with Short Codes
 - Participants will be able to write HTML5 & CSS3 codes within a fraction of seconds with various emmet hacks
+
+Prerequisites for current course / What you need to know
+---------------------
+
+- Participants need to know and have Basic/Intermediate knowledge of HTML and CSS or HTML5 and CSS3
+- How to use a text editor such as Notepad++, Sublime Text and/or IDE like Visual Studio Code 
