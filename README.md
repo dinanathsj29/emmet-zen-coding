@@ -57,3 +57,16 @@ Will learn:
 - How to write CSS code/styles/properties faster
 - How to take HTML & CSS coding to the next level with Emmet plugin in VS Code
 
+Who is this for? Audience
+---------------------
+
+This Course/Tutorial is ideal for:
+- Freshers
+- Intermediates
+- Web Designers/Developers, Front-End/UI Designers/Developers
+- Candidates/Professionals who want to learn and master HTML & CSS faster coding hacks
+- Anybody wanted to code HTML5, CSS3 or XML faster
+- Any Developer looking to develop websites quickly with HTML & CSS or HTML5, CSS3
+- Any coder looking to be more efficient when programming or developing with HTML & CSS
+- Candidates desire to learn new techniques to improve skills
+- Anyone want to be more productive writing HTML5 & CSS3 code
