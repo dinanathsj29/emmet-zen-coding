@@ -95,7 +95,7 @@ Topics included/covered
     - 1.2. [Welcome](#12-welcome)
     - 1.3. [Agenda](#13-agenda)
     - 1.4. [What You will Learn](#14-what-you-will-learn)
-    - 1.5. [How long you need to complete?](#15-how-long-you-need-to-complete?)
+    - 1.5. [How long you need to complete?](#15-how-long-you-need-to-complete)
 
 1 Introduction to Emmet
 =====================
