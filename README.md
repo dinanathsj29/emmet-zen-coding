@@ -92,6 +92,7 @@ Topics included/covered
 
 1. [Introduction to Emmet](#1-introduction-to-emmet)
     - 1.1. [Emmet (Zen Coding)](#11-emmet-zen-coding)
+    - 1.2. [Welcome](#12-welcome)
 
 1 Introduction to Emmet
 =====================
@@ -103,6 +104,16 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide1.png" alt="Emmet (Zen Coding) Tutorial Banner" title="Emmet (Zen Coding) Tutorial Banner" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Banner</figcaption>
+  </figure>
+</p>
+
+1.2. Welcome
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide2.png" alt="Emmet (Zen Coding) Tutorial Welcome" title="Emmet (Zen Coding) Tutorial Welcome" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Welcome</figcaption>
   </figure>
 </p>
 
