@@ -105,8 +105,8 @@ Topics included/covered
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide1.png" alt="Emmet (Zen Coding) Tutorial Banner" title="Emmet (Zen Coding) Tutorial Banner" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Banner</figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide1.png" alt="Emmet (Zen Coding) Tutorial - Banner" title="Emmet (Zen Coding) Tutorial - Banner" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Banner</figcaption>
   </figure>
 </p>
 
@@ -115,8 +115,8 @@ Topics included/covered
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide2.png" alt="Emmet (Zen Coding) Tutorial Welcome" title="Emmet (Zen Coding) Tutorial Welcome" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Welcome</figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide2.png" alt="Emmet (Zen Coding) Tutorial - Welcome" title="Emmet (Zen Coding) Tutorial - Welcome" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Welcome</figcaption>
   </figure>
 </p>
 
@@ -125,8 +125,8 @@ Topics included/covered
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide3.png" alt="Emmet (Zen Coding) Tutorial Agenda" title="Emmet (Zen Coding) Tutorial Agenda" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Agenda</figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide3.png" alt="Emmet (Zen Coding) Tutorial - Agenda" title="Emmet (Zen Coding) Tutorial - Agenda" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Agenda</figcaption>
   </figure>
 </p>
 
@@ -156,4 +156,3 @@ Topics included/covered
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - How long you need to complete?</figcaption>
   </figure>
 </p>
-
