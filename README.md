@@ -86,3 +86,23 @@ Prerequisites for current course / What you need to know
 
 - Participants need to know and have Basic/Intermediate knowledge of HTML and CSS or HTML5 and CSS3
 - How to use a text editor such as Notepad++, Sublime Text and/or IDE like Visual Studio Code 
+
+Topics included/covered
+=====================
+
+1. [Introduction to Emmet](#1-introduction-to-emmet)
+    - 1.1. [Emmet (Zen Coding)](#11-emmet-(zen-Coding))
+
+1 Introduction to Emmet
+=====================
+
+1.1. Emmet (Zen Coding)
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide1.png" alt="Emmet (Zen Coding) Tutorial Banner" title="Emmet (Zen Coding) Tutorial Banner" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Banner</figcaption>
+  </figure>
+</p>
+
