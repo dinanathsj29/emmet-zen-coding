@@ -70,3 +70,13 @@ This Course/Tutorial is ideal for:
 - Any coder looking to be more efficient when programming or developing with HTML & CSS
 - Candidates desire to learn new techniques to improve skills
 - Anyone want to be more productive writing HTML5 & CSS3 code
+
+Course/Tutorial achievement
+---------------------
+Course/Tutorial Goal
+---------------------
+
+After completing/attending/finishing this Course/Tutorial, participants should be able to: 
+- Write HTML & CSS code faster and in an efficient way
+- Improve HTML & CSS workflow with Short Codes
+- Participants will be able to write HTML5 & CSS3 codes within a fraction of seconds with various emmet hacks
