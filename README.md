@@ -39,4 +39,6 @@ Add topics to categorize your repository and make it more discoverable.
 Emmet - (Zen Coding)
 =====================
 
-Write quicker HTML5 &amp; CSS3 productivity hacks with Emmet (Zen Coding). Faster HTML &amp; CSS workflow with Emmet (Zen Coding). A Complete Guide to Improve HTML &amp; CSS Workflow using Emmet. Accelerate HTML &amp; CSS workflow with emmet coding faster techniques.
+Emmet is a plugin for text editors that helps you write HTML and CSS faster and efficiently. Write quicker HTML5 & CSS3 productivity hacks with Emmet (Zen Coding). Faster HTML & CSS workflow with Emmet (Zen Coding). A Complete Guide to Improve HTML & CSS Workflow using Emmet. Accelerate HTML & CSS workflow with emmet coding faster techniques.
+
+
