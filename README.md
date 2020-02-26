@@ -95,6 +95,7 @@ Topics included/covered
     - 1.2. [Welcome](#12-welcome)
     - 1.3. [Agenda](#13-agenda)
     - 1.4. [What You will Learn](#14-what-you-will-learn)
+    - 1.5. [How long you need to complete?](#15-how-long-you-need-to-complete?)
 
 1 Introduction to Emmet
 =====================
@@ -138,3 +139,21 @@ Topics included/covered
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - What You will Learn</figcaption>
   </figure>
 </p>
+
+1.5. How long you need to complete?
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide5.png" alt="Emmet (Zen Coding) Tutorial - How long you need to complete?" title="Emmet (Zen Coding) Tutorial - How long you need to complete?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - How long you need to complete?</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide6.png" alt="Emmet (Zen Coding) Tutorial - How long you need to complete?" title="Emmet (Zen Coding) Tutorial - How long you need to complete?" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - How long you need to complete?</figcaption>
+  </figure>
+</p>
+
