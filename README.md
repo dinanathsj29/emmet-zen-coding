@@ -96,7 +96,7 @@ Topics included/covered
 1 Introduction to Emmet
 =====================
 
-1.1. Emmet (Zen Coding)
+1.1. Emmet %28Zen Coding%29
 ---------------------
 
 <p>
