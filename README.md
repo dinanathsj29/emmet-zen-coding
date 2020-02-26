@@ -35,15 +35,25 @@ Add topics to categorize your repository and make it more discoverable.
  <img src="_images-emmet-zen-coding/emmet-logo-2.png" alt="Emmet Zen Coding Logo" title="Emmet Zen Coding" width="600" />
 </p>
 
-
 Emmet - (Zen Coding)
 =====================
 
-Emmet is a plugin for text editors that helps you write HTML and CSS faster and efficiently. Write quicker HTML5 & CSS3 productivity hacks with Emmet (Zen Coding). Faster HTML & CSS workflow with Emmet (Zen Coding). A Complete Guide to Improve HTML & CSS Workflow using Emmet. Accelerate HTML & CSS workflow with emmet coding faster techniques.
+`Emmet` is a plugin for text editors that helps you write HTML and CSS faster and efficiently. Write quicker HTML5 & CSS3 productivity hacks with Emmet (Zen Coding). Faster HTML & CSS workflow with Emmet (Zen Coding). A Complete Guide to Improve HTML & CSS Workflow using Emmet. Accelerate HTML & CSS workflow with emmet coding faster techniques.
 
 Welcome
 ---------------------
 
-Hi All, I'm **`Dinanath Jayaswal, Senior UI/Web Developer and Adobe Certified Expert Professional`**, I wanna welcome you to `Emmet - Faster coding techniques for HTML & CSS` - Beginners to Advanced level tutorial for all.
+Hi All, I'm **`Dinanath Jayaswal, Senior UI/Web Developer and Adobe Certified Expert Professional`**, I wanna welcome you to `Emmet - Faster coding techniques for HTML & CSS` - Beginners to Advanced level tutorial for all. 
 
+About the Course/Tutorial
+---------------------
+
+In this course, let us learn to use a plugin called `emmet` which helps to make your workflow super smooth and efficient. I will show you many helpful/handy tricks that will do wonders in saving time when developing a project.
+
+In this Tutorial/Class, Participants will learn how to write Codes/Markups/Styles/Properties without wasting of time. Without writing any tags or attributes, they will feel great; getting full Syntax of HTML and CSS just pressing `TAB` key on Keyboard and typing short letters or keywords only. It's a quite different way to write the codes for best Web Developers forever. No need to remember every tags/element or attribute/property. Without typing tags and attributes, they will get a response to all tags and attributes on screen. It's Time to have fun with Codes!!!
+
+Will learn:
+- How to code/write HTML tags and markup faster
+- How to write CSS code/styles/properties faster
+- How to take HTML & CSS coding to the next level with Emmet plugin in VS Code
 
