@@ -94,6 +94,7 @@ Topics included/covered
     - 1.1. [Emmet (Zen Coding)](#11-emmet-zen-coding)
     - 1.2. [Welcome](#12-welcome)
     - 1.3. [Agenda](#13-agenda)
+    - 1.4. [What You will Learn](#14-what-you-will-learn)
 
 1 Introduction to Emmet
 =====================
@@ -125,5 +126,15 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide3.png" alt="Emmet (Zen Coding) Tutorial Agenda" title="Emmet (Zen Coding) Tutorial Agenda" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial Agenda</figcaption>
+  </figure>
+</p>
+
+1.4. What You will Learn
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide4.png" alt="Emmet (Zen Coding) Tutorial - What You will Learn" title="Emmet (Zen Coding) Tutorial - What You will Learn" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - What You will Learn</figcaption>
   </figure>
 </p>
