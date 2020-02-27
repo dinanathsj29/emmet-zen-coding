@@ -100,6 +100,9 @@ Topics included/covered
     - 1.7. [What is Emmet?](#17-what-is-emmet)
     - 1.8. [Text Editors and IDEs](#18-text-editors-and-ides)
     - 1.9. [Why Emmet Advantages of Emmet](#19-why-emmet-advantages-of-emmet)
+    - 1.10. [Installing Emmet](#110-installing-emmet) | [Installing Emmet Zen Coding](#110-installing-emmet-zen-coding) | [Setup Emmet Zen Coding](#110-setup-emmet-zen-coding) 
+    
+    
 
 1 Introduction to Emmet
 =====================
@@ -226,5 +229,28 @@ Topics included/covered
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide14.png" alt="Emmet (Zen Coding) Tutorial - Why Emmet Advantages of Emmet" title="Emmet (Zen Coding) Tutorial - Why Emmet Advantages of Emmet" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Why Emmet Advantages of Emmet</figcaption>
+  </figure>
+</p>
+
+1.10. Installing Emmet
+---------------------
+1.10. Installing Emmet Zen Coding
+---------------------
+1.10. Setup Emmet Zen Coding
+---------------------
+
+In this section, we will learn how to set up/install Emmet, a special plugin in your favorite Text Editor/IDE:
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide15.png" alt="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" title="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide16.png" alt="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" title="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding</figcaption>
   </figure>
 </p>
