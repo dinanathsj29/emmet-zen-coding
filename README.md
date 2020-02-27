@@ -100,7 +100,8 @@ Topics included/covered
     - 1.7. [What is Emmet?](#17-what-is-emmet)
     - 1.8. [Text Editors and IDEs](#18-text-editors-and-ides)
     - 1.9. [Why Emmet Advantages of Emmet](#19-why-emmet-advantages-of-emmet)
-    - 1.10. [Installing Emmet](#110-installing-emmet) | [Installing Emmet Zen Coding](#110-installing-emmet-zen-coding) | [Setup Emmet Zen Coding](#110-setup-emmet-zen-coding) 
+    - 1.10. [Installing Emmet](#110-installing-emmet) | [Installing Emmet Zen Coding](#110-installing-emmet-zen-coding) | [Setup Emmet Zen Coding](#110-setup-emmet-zen-coding)
+    - 1.11. [Emmet Short Cut Issue Head Up](#111-emmet-short-cut-issue-head-up)
     
     
 
@@ -252,5 +253,15 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide16.png" alt="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" title="Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Installing Emmet Zen Coding</figcaption>
+  </figure>
+</p>
+
+1.11. Emmet Short Cut Issue Head Up
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide17.png" alt="Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up" title="Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up</figcaption>
   </figure>
 </p>
