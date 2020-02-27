@@ -102,7 +102,8 @@ Topics included/covered
     - 1.9. [Why Emmet Advantages of Emmet](#19-why-emmet-advantages-of-emmet)
     - 1.10. [Installing Emmet](#110-installing-emmet) | [Installing Emmet Zen Coding](#110-installing-emmet-zen-coding) | [Setup Emmet Zen Coding](#110-setup-emmet-zen-coding)
     - 1.11. [Emmet Short Cut Issue Head Up](#111-emmet-short-cut-issue-head-up)
-    
+2. [Using Emmet with HTML5](#2-using-emmet-with-html5)
+    - 2.1. [Using Emmet with HTML5 Symbol Syntax)](#21-Using-emmet-with-html5-symbol-syntax)      
     
 
 1 Introduction to Emmet
@@ -263,5 +264,25 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide17.png" alt="Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up" title="Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Emmet Short Cut Issue Head Up</figcaption>
+  </figure>
+</p>
+
+2 Using Emmet with HTML5
+=====================
+
+2.1. Using Emmet with HTML5 Symbol syntax
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide18.png" alt="Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax" title="Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide19.png" alt="Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax" title="Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Using Emmet with HTML5 - Symbol Syntax</figcaption>
   </figure>
 </p>
