@@ -105,6 +105,7 @@ Topics included/covered
 2. [Using Emmet with HTML5](#2-using-emmet-with-html5)
     - 2.1. [Using Emmet with HTML5 Symbol Syntax)](#21-Using-emmet-with-html5-symbol-syntax)      
     - 2.2. [HTML Doc Types ! Html:5 html:4t](#22-html-doc-types)
+    - 2.3. [HTML Tag Elements - name](#23-html-tag-elements-name)
 
 1 Introduction to Emmet
 =====================
@@ -296,5 +297,17 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide20.png" alt="Emmet (Zen Coding) Tutorial - HTML Doc Types ! Html:5 html:4t" title="Emmet (Zen Coding) Tutorial - HTML Doc Types ! Html:5 html:4t" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML Doc Types ! Html:5 html:4t</figcaption>
+  </figure>
+</p>
+
+2.3. HTML Tag Elements-name
+---------------------
+2.3. HTML Tag Elements - name
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide21.png" alt="Emmet (Zen Coding) Tutorial - HTML Tag Elements - name" title="Emmet (Zen Coding) Tutorial - HTML Tag Elements - name" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML Tag Elements - name</figcaption>
   </figure>
 </p>
