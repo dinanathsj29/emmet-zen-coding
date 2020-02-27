@@ -98,7 +98,7 @@ Topics included/covered
     - 1.5. [How long you need to complete?](#15-how-long-you-need-to-complete)
     - 1.6. [Emmet Zen Coding Code Like a Pro](#16-emmet-zen-coding-code-like-a-pro)
     - 1.7. [What is Emmet?](#17-what-is-emmet)
-    - 1.8. [Text Editors & IDE’s](#18-text-editors-&-ide’s)
+    - 1.8. [Text Editors and IDEs](#18-text-editors-and-ides)
 
 1 Introduction to Emmet
 =====================
@@ -187,12 +187,12 @@ Topics included/covered
   </figure>
 </p>
 
-1.8. Text Editors & IDE’s
+1.8. Text Editors and IDEs
 ---------------------
 
 <p>
   <figure>
-    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide10.png" alt="Emmet (Zen Coding) Tutorial - Text Editors & IDE’s" title="Emmet (Zen Coding) Tutorial - Text Editors & IDE’s" width="1000" border="2" />
-    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Text Editors & IDE’s</figcaption>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide10.png" alt="Emmet (Zen Coding) Tutorial - Text Editors and IDEs" title="Emmet (Zen Coding) Tutorial - Text Editors and IDEs" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Text Editors and IDEs</figcaption>
   </figure>
 </p>
