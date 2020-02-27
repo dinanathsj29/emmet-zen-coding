@@ -104,7 +104,7 @@ Topics included/covered
     - 1.11. [Emmet Short Cut Issue Head Up](#111-emmet-short-cut-issue-head-up)
 2. [Using Emmet with HTML5](#2-using-emmet-with-html5)
     - 2.1. [Using Emmet with HTML5 Symbol Syntax)](#21-Using-emmet-with-html5-symbol-syntax)      
-    - 2.2. [HTML Doc Types ! Html:5 html:4t](#22-html-doc-types-!-html:5-html:4t)
+    - 2.2. [HTML Doc Types ! Html:5 html:4t](#22-html-doc-types)
 
 1 Introduction to Emmet
 =====================
@@ -287,6 +287,8 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
+2.2. HTML Doc Types
+---------------------
 2.2. HTML Doc Types ! Html:5 html:4t
 ---------------------
 
