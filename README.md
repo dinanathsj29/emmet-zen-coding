@@ -116,8 +116,9 @@ Topics included/covered
 3. [Using Emmet with CSS3](#3-using-emmet-with-css3)
     - 3.1. [Using Emmet with CSS3 Symbol Syntax)](#31-Using-emmet-with-css3-symbol-syntax)
     - 3.2. [CSS Properties / Abbreviations m / p / w](#32-css-properties-abbreviations-m-p-w)
-    - 3.3. [CSS Vendor Specific properties / prefix](#33-css-vendor-specific-properties-prefix)  
-
+    - 3.3. [CSS Vendor Specific properties / prefix](#33-css-vendor-specific-properties-prefix)
+    - 3.4. [CSS Gradients](#34-css-gradients)  
+    
 1 Introduction to Emmet
 =====================
 
@@ -455,3 +456,12 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
+3.4. CSS Gradients
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide33.png" alt="Emmet (Zen Coding) Tutorial - CSS Gradients" title="Emmet (Zen Coding) Tutorial - CSS Gradients" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - CSS Gradients</figcaption>
+  </figure>
+</p>
