@@ -109,6 +109,7 @@ Topics included/covered
     - 2.4. [HTML Tag Selectors - Attributes - IDs and Classes . # { }](#24-html-tag-selectors-attributes-ids-and-classes)
     - 2.5. [HTML Child Element >](#25-html-child-element)
     - 2.6. [HTML Sibling Element +](#26-html-sibling-element)
+    - 2.7. [HTML Climb-Step Up Element ^](#27-html-climb-step-up-element-^)
     
 1 Introduction to Emmet
 =====================
@@ -350,5 +351,19 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide24.png" alt="Emmet (Zen Coding) Tutorial - HTML Sibling Element +" title="Emmet (Zen Coding) Tutorial - HTML Sibling Element +" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML Sibling Element +</figcaption>
+  </figure>
+</p>
+
+2.7. HTML Climb-Step Up Element ^
+---------------------
+2.7. HTML Climb - Step Up Element ^
+---------------------
+2.7. HTML Climb - Step Up Element
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide25.png" alt="Emmet (Zen Coding) Tutorial - HTML Climb-Step Up Element ^" title="Emmet (Zen Coding) Tutorial - HTML Climb-Step Up Element ^" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML Climb-Step Up Element ^</figcaption>
   </figure>
 </p>
