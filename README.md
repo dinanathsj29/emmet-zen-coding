@@ -109,7 +109,7 @@ Topics included/covered
     - 2.4. [HTML Tag Selectors - Attributes - IDs and Classes . # { }](#24-html-tag-selectors-attributes-ids-and-classes)
     - 2.5. [HTML Child Element >](#25-html-child-element)
     - 2.6. [HTML Sibling Element +](#26-html-sibling-element)
-    - 2.7. [HTML Climb-Step Up Element ^](#27-html-climb-step-up-element-^)
+    - 2.7. [HTML Climb-Step Up Element ^](#27-html-climb-step-up-element)
     
 1 Introduction to Emmet
 =====================
@@ -354,11 +354,11 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
+2.7. HTML Climb - Step Up Element
+---------------------
 2.7. HTML Climb-Step Up Element ^
 ---------------------
 2.7. HTML Climb - Step Up Element ^
----------------------
-2.7. HTML Climb - Step Up Element
 ---------------------
 
 <p>
