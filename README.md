@@ -121,6 +121,7 @@ Topics included/covered
     - 3.5. [CSS @font-face](#35-css-font-face)
 4. [Demo and Resources](#4-demo-and-resources)
     - 4.1. [Demo](#41-Demo)
+    - 4.2. [Useful Emmet Shortcuts](#42-useful-emmet-shortcuts)
     
 1 Introduction to Emmet
 =====================
@@ -489,5 +490,22 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide35.png" alt="Emmet (Zen Coding) Tutorial - Demo" title="Emmet (Zen Coding) Tutorial - Demo" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Demo</figcaption>
+  </figure>
+</p>
+
+4.2. Useful Emmet Shortcuts
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide36.png" alt="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" title="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts</figcaption>
+  </figure>
+</p>
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide37.png" alt="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" title="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts</figcaption>
   </figure>
 </p>
