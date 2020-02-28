@@ -354,7 +354,7 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
-2.7. HTML Climb - Step Up Element
+2.7. HTML Climb-Step Up Element
 ---------------------
 2.7. HTML Climb-Step Up Element ^
 ---------------------
