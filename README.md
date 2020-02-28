@@ -111,6 +111,7 @@ Topics included/covered
     - 2.6. [HTML Sibling Element +](#26-html-sibling-element)
     - 2.7. [HTML Climb-Step Up Element ^](#27-html-climb-step-up-element)
     - 2.8. [HTML Math Numbering Multiply Replicate tags elements * $ @](#28-html-math-numbering-multiply-replicate-tags-elements)
+    - 2.9. [HTML tags elements Grouping ( )](#29-html-tags-elements-grouping-(-))
     
 1 Introduction to Emmet
 =====================
@@ -385,5 +386,15 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide27.png" alt="Emmet (Zen Coding) Tutorial - HTML Math Numbering, Multiply, Replicate tags elements * $ @" title="Emmet (Zen Coding) Tutorial - HTML Math Numbering, Multiply, Replicate tags elements * $ @" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML Math Numbering, Multiply, Replicate tags elements * $ @</figcaption>
+  </figure>
+</p>
+
+2.9. HTML tags elements Grouping ( )
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide28.png" alt="Emmet (Zen Coding) Tutorial - HTML tags elements Grouping ( )" title="Emmet (Zen Coding) Tutorial - HTML tags elements Grouping ( )" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - HTML tags elements Grouping ( )</figcaption>
   </figure>
 </p>
