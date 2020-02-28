@@ -118,7 +118,7 @@ Topics included/covered
     - 3.2. [CSS Properties / Abbreviations m / p / w](#32-css-properties-abbreviations-m-p-w)
     - 3.3. [CSS Vendor Specific properties / prefix](#33-css-vendor-specific-properties-prefix)
     - 3.4. [CSS Gradients](#34-css-gradients)
-    - 3.5. [CSS @font-face](#35-css-@font-face)
+    - 3.5. [CSS @font-face](#35-css-font-face)
     
 1 Introduction to Emmet
 =====================
