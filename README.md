@@ -122,6 +122,12 @@ Topics included/covered
 4. [Demo and Resources](#4-demo-and-resources)
     - 4.1. [Demo](#41-Demo)
     - 4.2. [Useful Emmet Shortcuts](#42-useful-emmet-shortcuts)
+    - 4.3. [Useful Websites Resources](#43-useful-websites-resources)
+    - 4.4. [What You Learnt](#44-what-you-learnt)
+    - 4.5. [Q and A](#45-q-and-a)
+    - 4.6. [Feedback ](#46-feedback)
+    - 4.7. [Refinements and Improvements](#47-refinements-and-improvements)
+    - 4.8. [Thank You](#48-thank-you)
     
 1 Introduction to Emmet
 =====================
@@ -507,5 +513,66 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide37.png" alt="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" title="Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Useful Emmet Shortcuts</figcaption>
+  </figure>
+</p>
+
+4.3. Useful Websites Resources
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide38.png" alt="Emmet (Zen Coding) Tutorial - Useful Websites Resources" title="Emmet (Zen Coding) Tutorial - Useful Websites Resources" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Useful Websites Resources</figcaption>
+  </figure>
+</p>
+
+
+4.4. What You Learnt
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide39.png" alt="Emmet (Zen Coding) Tutorial - What You Learnt" title="Emmet (Zen Coding) Tutorial - What You Learnt" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - What You Learnt</figcaption>
+  </figure>
+</p>
+
+4.5. Q and A
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide40.png" alt="Emmet (Zen Coding) Tutorial - Q and A" title="Emmet (Zen Coding) Tutorial - Q and A" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Q and A</figcaption>
+  </figure>
+</p>
+
+4.6. Feedback
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide41.png" alt="Emmet (Zen Coding) Tutorial - Feedback" title="Emmet (Zen Coding) Tutorial - Feedback" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Feedback</figcaption>
+  </figure>
+</p>
+
+4.7. Refinements and Improvements
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide42.png" alt="Emmet (Zen Coding) Tutorial - Refinements and Improvements" title="Emmet (Zen Coding) Tutorial - Refinements and Improvements" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Refinements and Improvements</figcaption>
+  </figure>
+</p>
+
+4.8. Thank You
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide43.png" alt="Emmet (Zen Coding) Tutorial - Thank You" title="Emmet (Zen Coding) Tutorial - Thank You" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Thank You</figcaption>
   </figure>
 </p>
