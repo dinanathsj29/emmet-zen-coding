@@ -108,7 +108,7 @@ Topics included/covered
     - 2.3. [HTML Tag Elements - name](#23-html-tag-elements-name)
     - 2.4. [HTML Tag Selectors - Attributes - IDs and Classes . # { }](#24-html-tag-selectors-attributes-ids-and-classes)
     - 2.5. [HTML Child Element >](#25-html-child-element)
-    - 2.6. [HTML Sibling Element +](#26-html-sibling-element-+)
+    - 2.6. [HTML Sibling Element +](#26-html-sibling-element)
     
 1 Introduction to Emmet
 =====================
@@ -341,9 +341,9 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
-2.6. HTML Sibling Element +
----------------------
 2.6. HTML Sibling Element
+---------------------
+2.6. HTML Sibling Element +
 ---------------------
 
 <p>
