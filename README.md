@@ -404,6 +404,8 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
 
 2.10. HTML Dummy Text generation Lorem Ipsum
 ---------------------
+2.10. HTML Dummy Text generation
+---------------------
 
 <p>
   <figure>
