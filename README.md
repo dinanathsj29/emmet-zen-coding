@@ -119,6 +119,8 @@ Topics included/covered
     - 3.3. [CSS Vendor Specific properties / prefix](#33-css-vendor-specific-properties-prefix)
     - 3.4. [CSS Gradients](#34-css-gradients)
     - 3.5. [CSS @font-face](#35-css-font-face)
+4. [Demo and Resources](#4-demo-and-resources)
+    - 4.1. [Demo](#41-Demo)
     
 1 Introduction to Emmet
 =====================
@@ -474,5 +476,18 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   <figure>
     &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide34.png" alt="Emmet (Zen Coding) Tutorial - CSS @font-face" title="Emmet (Zen Coding) Tutorial - CSS @font-face" width="1000" border="2" />
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - CSS @font-face</figcaption>
+  </figure>
+</p>
+
+4 Demo and Resources
+=====================
+
+4.1. Demo
+---------------------
+
+<p>
+  <figure>
+    &nbsp;&nbsp;&nbsp; <img src="./_images-emmet-zen-coding/Slide35.png" alt="Emmet (Zen Coding) Tutorial - Demo" title="Emmet (Zen Coding) Tutorial - Demo" width="1000" border="2" />
+    <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - Demo</figcaption>
   </figure>
 </p>
