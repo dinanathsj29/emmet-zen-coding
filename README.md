@@ -115,7 +115,7 @@ Topics included/covered
     - 2.10. [HTML Dummy Text generation Lorem Ipsum](#210-html-dummy-text-generation-lorem-ipsum)
 3. [Using Emmet with CSS3](#3-using-emmet-with-css3)
     - 3.1. [Using Emmet with CSS3 Symbol Syntax)](#31-Using-emmet-with-css3-symbol-syntax)
-    - 3.2. [CSS Properties / Abbreviations m / p / w](#32-css-properties-/-abbreviations-m-/-p-/-w)
+    - 3.2. [CSS Properties / Abbreviations m / p / w](#32-css-properties-abbreviations-m-p-w)
 
 1 Introduction to Emmet
 =====================
@@ -430,6 +430,8 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
   </figure>
 </p>
 
+3.2. CSS Properties Abbreviations m p w
+---------------------
 3.2. CSS Properties / Abbreviations m / p / w
 ---------------------
 
@@ -439,3 +441,4 @@ In this section, we will learn how to set up/install Emmet, a special plugin in 
     <figcaption>&nbsp;&nbsp;&nbsp; Image - Emmet (Zen Coding) Tutorial - CSS Properties / Abbreviations m / p / w</figcaption>
   </figure>
 </p>
+
